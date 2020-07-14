@@ -27,4 +27,4 @@ git commit -m "Travis build $TRAVIS_BUILD_NUMBER"
 git push -fq origin gh-pages > /dev/null
 
 echo "Done updating gh-pages\n"
-
+fi;
